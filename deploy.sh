@@ -5,6 +5,7 @@ deploy in the dev en
 deployment5 master
 deploy in the dev env
 deployment4D
+deployment4
 deploy to staging environment
 echo good job
 Tested and accepted
